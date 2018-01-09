@@ -2,7 +2,7 @@
 set -x
 set -e
 
-HTTP_SERVER=192.168.56.1:8000
+HTTP_SERVER=192.168.0.71:8000
 KUBE_HA=true
 
 KUBE_REPO_PREFIX=gcr.io/google_containers
